@@ -4,7 +4,7 @@ This program was designed to solve a variation of the traveling salesman problem
 ## Scenario Problem
 A parcel delivery service needs to determine an efficient route and delivery distribution for their local deliveries. The delivery route has three trucks, two drivers, and an average of 40 packages to deliver each day. Each package has specific criteria and delivery requirements.
 
-Program a solution where all 40 packages will be delivered on time while meeting each package’s requirements and keeping the combined total distance traveled under 140 miles for both trucks. Distances to each location are given in the attached "DistanceData,csv” and addresses are provided in the "AddressData.csv." One should be able to see, at assigned points, the progress of each truck and its packages by any of the variables listed in the "PackageDataInputs,” including what has been delivered and at what time the delivery occurred.
+Program a solution where all 40 packages will be delivered on time while meeting each package’s requirements and keeping the combined total distance traveled under 140 miles for both trucks. Distances to each location are given in the attached "distance_data.csv”, addresses are provided in the "address_data.csv," and package information can be found in "package_data_input.csv." One should be able to see, at assigned points, the progress of each truck and its packages by any of the variables listed in the "PackageDataInputs,” including what has been delivered and at what time the delivery occurred.
 
 The following assumptions must be considered:
 
@@ -24,7 +24,7 @@ The following assumptions must be considered:
 
 •   The delivery address for package #9, Third District Juvenile Court, is wrong and will be corrected at 10:20 a.m. The delivery service is aware that the address is incorrect and will be updated at 10:20 a.m. However, the delivery service does not know the correct address (410 S State St., Salt Lake City, UT 84111) until 10:20 a.m.
 
-•   The distances provided in the "DistanceData.csv" are equal regardless of the direction traveled.
+•   The distances provided in the "distance_data.csv" are equal regardless of the direction traveled.
 
 •   The day ends when all 40 packages have been delivered.
 
