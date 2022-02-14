@@ -1,5 +1,5 @@
 # Delivery-Routing-Program
-This program attempts to find an optimal route for a package delivery service. It is an attempt at solving a variation of the traveling salesman problem.
+This program was designed to solve a variation of the traveling salesman problem. It finds an optimal route for a package delivery service through the implementation of a neareset neighbor algorithm. Time is simulated to track the status of packages and record the progress of trucks throughout the simulated day.
 
 ## Scenario Problem
 A parcel delivery service needs to determine an efficient route and delivery distribution for their local deliveries because packages are not currently being consistently delivered by their promised deadline. The delivery route has three trucks, two drivers, and an average of 40 packages to deliver each day. Each package has specific criteria and delivery requirements.
