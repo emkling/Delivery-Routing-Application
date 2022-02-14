@@ -6,7 +6,7 @@ A parcel delivery service needs to determine an efficient route and delivery dis
 
 Draft a solution where all 40 packages will be delivered on time while meeting each package’s requirements and keeping the combined total distance traveled under 140 miles for both trucks. Distances to each location are given in the attached "DistanceData,csv” and addresses are provided in the "AddressData.csv." One should be able to see, at assigned points, the progress of each truck and its packages by any of the variables listed in the "PackageDataInputs,” including what has been delivered and at what time the delivery occurred.
 
-The follow assumptions must be considered:
+The following assumptions must be considered:
 
 •   Each truck can carry a maximum of 16 packages, and the ID number of each package is unique.
 
