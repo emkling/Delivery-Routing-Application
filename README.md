@@ -1,5 +1,5 @@
 # Delivery-Routing-Program
-This program was designed to solve a variation of the traveling salesman problem. It finds an optimal route for a package delivery service through the implementation of a greedy algorithm. Time is simulated to track the status of packages and record the progress of trucks throughout the simulated day. A user interface offers options for viewing various reports pertaining to the deliveries. 
+This program was designed to solve a variation of the "Traveling Salesman Problem." It finds an optimal route for a package delivery service through the implementation of a greedy algorithm. Time is simulated to track the status of packages and record the progress of trucks throughout the simulated day. A user interface offers options for viewing various reports pertaining to the deliveries. 
 
 ## Scenario Problem
 A parcel delivery service needs to determine an efficient route and delivery distribution for their local deliveries. The delivery route has three trucks, two drivers, and an average of 40 packages to deliver each day. Each package has specific criteria and delivery requirements.
